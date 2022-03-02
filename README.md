@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**lichengphysics/lichengphysics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Cheng.
 
-Here are some ideas to get you started:
+After spending years on the theoretical physics research, I am recently a Data Scientist in an auto insurance company.
+I am learning the insurance industry from the telematics data, finiancial data and claim data. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<ol>
+- Contributions to the open source
+<ol>
+<li>XGBoost: https://github.com/dmlc/xgboost/pull/7711</li>
+</ol>
+</ol>
+
